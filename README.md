@@ -1,4 +1,5 @@
-## multi_crm
+## MCRM
+- Modular crm
 
 # Crm for Multiple business clients.
 - Customer Data
